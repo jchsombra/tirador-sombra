@@ -6,6 +6,10 @@
   "action": {
     "title": "Tirador Sombra",
     "icon": "https://jchsombra.github.io/tirador-sombra/icon.png",
-    "popover": "https://jchsombra.github.io/tirador-sombra/index.html"
+    "popover": {
+    	"url": "https://jchsombra.github.io/tirador-sombra/index.html",
+    	"width": 480,
+    	"height": 340
+    }
   }
 }
