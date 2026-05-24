@@ -1,0 +1,9 @@
+{
+  "name": "Tirador Sombra",
+  "version": "1.0.0",
+  "author": "Ediciones Sombra",
+  "action": {
+    "title": "Tirador Sombra",
+    "url": "./index.html"
+  }
+}
