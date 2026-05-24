@@ -5,7 +5,7 @@
   "author": "J. Carlos Herreros",
   "action": {
     "title": "Tirador Sombra",
-    "icon": "./d10.png",
+    "icon": "./icon.png",
     "popover": "index.html"
   }
 }
