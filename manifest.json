@@ -1,9 +1,11 @@
 {
+  "manifest_version": 1,
   "name": "Tirador Sombra",
   "version": "1.0.0",
-  "author": "Ediciones Sombra",
+  "author": "J. Carlos Herreros",
   "action": {
     "title": "Tirador Sombra",
+    "icon": "",
     "url": "./index.html"
   }
 }
