@@ -6,6 +6,6 @@
   "action": {
     "title": "Tirador Sombra",
     "icon": "d10.png",
-    "url": "./index.html"
+    "popover": "./index.html"
   }
 }
